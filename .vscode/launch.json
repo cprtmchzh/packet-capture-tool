@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/seonbin/Documents/project/packet-capture-tool",
+      "program": "/Users/seonbin/Documents/project/packet-capture-tool/build/Debug/outDebug"
+    }
+  ]
+}
